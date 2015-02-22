@@ -4,3 +4,5 @@ SOURCES = \
 
 TRANSLATIONS = \
 	i18n/lime_fr.ts
+
+ICON = icons/lime.icns
